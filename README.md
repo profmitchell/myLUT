@@ -1,4 +1,4 @@
-
+DOWNLOAD: https://github.com/profmitchell/myLUT/releases/tag/1.0
 # myLUT
 
 A simple and elegant LUT (Look-Up Table) generator for color grading and image processing.
