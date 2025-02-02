@@ -1,5 +1,7 @@
-<<<<<<< HEAD
+
 # myLUT Generator
+
+WEBSITE: https://profmitchell.github.io/myLUT/
 
 A professional color grading LUT generator that allows you to extract color profiles from reference images and apply them to your own photos. Create high-quality 3D LUTs compatible with major photo and video editing software.
 
