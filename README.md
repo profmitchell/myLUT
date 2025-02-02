@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # myLUT Generator
 
 A professional color grading LUT generator that allows you to extract color profiles from reference images and apply them to your own photos. Create high-quality 3D LUTs compatible with major photo and video editing software.
@@ -67,3 +68,35 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Mitchell Cohen  
 Newton, MA  
 [www.mitchellcohen.net](http://www.mitchellcohen.net)
+=======
+DOWNLOAD: https://github.com/profmitchell/myLUT/releases/tag/1.0
+# myLUT
+
+A simple and elegant LUT (Look-Up Table) generator for color grading and image processing.
+
+<img width="1645" alt="Screenshot 2025-01-28 at 2 59 08 PM" src="https://github.com/user-attachments/assets/28d87ec2-4c0c-4548-b20d-5c9ffcd4ac9f" />
+
+
+## Features
+
+- Generate LUTs from graded images (17x17x17 or 33x33x33)
+- Real-time LUT preview
+- Export LUTs in .cube format
+- Automatically export processed preview images as JPEG
+- Modern glass-morphism UI
+- Toggle LUT preview on/off
+
+## Usage
+
+1. Load a color-graded (corrected) source image
+
+2. Select LUT resolution (higher resolution = longer processing time)
+3. Generate the LUT
+4. Load a preview image to test the LUT
+5. Export the LUT and preview image
+
+## Development
+
+Developed by Mitchell Cohen in Newton, MA (2025)
+www.mitchellcohen.net
+>>>>>>> 9c79baed1a20b60fff17b58296e3b9626a2f0644
